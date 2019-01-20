@@ -1,0 +1,9 @@
+C:\Users\shenwei.wang\documents\visual studio 2015\Projects\PreventScreenLocked\PreventScreenLocked\bin\Release\PreventScreenLocked.exe.config
+C:\Users\shenwei.wang\documents\visual studio 2015\Projects\PreventScreenLocked\PreventScreenLocked\bin\Release\PreventScreenLocked.exe
+C:\Users\shenwei.wang\documents\visual studio 2015\Projects\PreventScreenLocked\PreventScreenLocked\bin\Release\PreventScreenLocked.pdb
+C:\Users\shenwei.wang\documents\visual studio 2015\Projects\PreventScreenLocked\PreventScreenLocked\obj\Release\PreventScreenLocked.Form1.resources
+C:\Users\shenwei.wang\documents\visual studio 2015\Projects\PreventScreenLocked\PreventScreenLocked\obj\Release\PreventScreenLocked.Properties.Resources.resources
+C:\Users\shenwei.wang\documents\visual studio 2015\Projects\PreventScreenLocked\PreventScreenLocked\obj\Release\PreventScreenLocked.csproj.GenerateResource.Cache
+C:\Users\shenwei.wang\documents\visual studio 2015\Projects\PreventScreenLocked\PreventScreenLocked\obj\Release\PreventScreenLocked.exe
+C:\Users\shenwei.wang\documents\visual studio 2015\Projects\PreventScreenLocked\PreventScreenLocked\obj\Release\PreventScreenLocked.pdb
+C:\Users\shenwei.wang\Documents\visual studio 2015\Projects\PreventScreenLocked\PreventScreenLocked\obj\Release\PreventScreenLocked.csprojResolveAssemblyReference.cache
